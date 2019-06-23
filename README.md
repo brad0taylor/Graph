@@ -8,7 +8,12 @@ We are interested in the following questions:
 6) how to optimally reduce an netwrk automatically to fit existing hardware such as FPGAs?
 7) What are the qualitive differences between NN based CPUs and traditional ALUs
 8) What can be achieved  in terms of error rate if exact solutions exist?
-9) How to merge and discover logical graph structure into an NN 
+9) How to merge and discover logical graph structure into an NN
+
+NNs+SAT as a CAD tool for 1? kbits for FPGA
+1) Bit level routing
+2) HiFi computation
+3) Code compilation  
 
 Demonstrations
 1) NN ALU
